@@ -3,6 +3,15 @@
 Vue.component("simple_cta_component_1722050995", {
     template: `
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
+        <nav class="bg-white shadow-md p-4 mb-8">
+            <div class="max-w-screen-xl mx-auto flex justify-between items-center">
+                <div class="flex space-x-4">
+                    <a href="#" class="text-gray-800 hover:text-purple-600">Home</a>
+                    <a href="#" class="text-gray-800 hover:text-purple-600">About</a>
+                    <a href="#" class="text-gray-800 hover:text-purple-600">Contact Us</a>
+                </div>
+            </div>
+        </nav>
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
