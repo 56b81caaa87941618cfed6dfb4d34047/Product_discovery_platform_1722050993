@@ -12,5 +12,11 @@
         "content": "add a navbar with the fields home, about and contact",
         "timestamp": "27072024033005",
         "message_id": "mymessageid"
+    },
+    {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "timestamp": "27072024033005",
+        "message_id": "mymessageid"
     }
 ]
